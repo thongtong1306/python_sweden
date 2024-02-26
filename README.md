@@ -1,4 +1,4 @@
-This is a testing Pythong code made to scrape some Sweden company with no target of financial purpose
+This is a testing Python code made to scrape some Sweden companies with no target of financial purpose
 
 Dependencies:
 
